@@ -46,9 +46,9 @@
 向机器人发送命令即可安装：
 
 ```
-!plugin get https://github.com/Zogur/ConversationLoggerPlugin.git
+!plugin get https://github.com/Zogur/cvs_format_save.git
 ```
 
 重启完成即可使用
 
-对话信息保存在`QChatGPT/plugins/ConversationLoggerPlugin`目录下
+对话信息保存在`QChatGPT/plugins/cvs_format_save`目录下
