@@ -5,7 +5,7 @@ from datetime import datetime
 from pkg.plugin.models import *
 from pkg.plugin.host import EventContext, PluginHost
 
-@register(name="cvs_format_save", description="以cvs格式存储对话并按日期创建文件夹", version="0.1.0", author="Zogur")
+@register(name="cvs_format_save", description="以cvs格式存储对话并按日期创建文件夹", version="1.0.2", author="Zogur")
 class ConversationLoggerPlugin(Plugin):
     def __init__(self, plugin_host: PluginHost):
         self.plugin_host = plugin_host
