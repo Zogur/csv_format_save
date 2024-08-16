@@ -1,4 +1,4 @@
-# cvs_format_save
+# HelloPlugin
 
 <!--
 ## 插件开发者详阅
@@ -40,15 +40,3 @@
 ## 使用
 
 <!-- 插件开发者自行填写插件使用说明 -->
-
-<!-- 插件开发者自行填写插件使用说明 -->
-
-向机器人发送命令即可安装：
-
-```
-!plugin get https://github.com/Zogur/cvs_format_save.git
-```
-
-重启完成即可使用
-
-对话信息保存在`QChatGPT/plugins/cvs_format_save`目录下
