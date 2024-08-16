@@ -1,4 +1,4 @@
-# HelloPlugin
+# csv_format_save
 
 <!--
 ## 插件开发者详阅
@@ -40,3 +40,13 @@
 ## 使用
 
 <!-- 插件开发者自行填写插件使用说明 -->
+
+对机器人发送指令获取插件并安装：
+
+```
+!plugin get https://github.com/Zogur/csv_format_save.git
+```
+
+重启QchatGPT服务即可使用。
+
+`保存信息在plugins/csv_format_save/conversation_logs中，注意调整优先级别。`
